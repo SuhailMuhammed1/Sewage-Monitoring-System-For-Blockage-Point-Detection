@@ -1,9 +1,3 @@
-:Author: Suhail Muhammed
-:Email: suhailjr111@gmail.com
-:Date: 17/11/2022
-:Revision: version#
-:License: Public Domain
-
 # Sewage Monitoring System For Blockage Point Detection
 
 This Arduino sketch implements a Sewage Monitoring System for Blockage Point Detection. The system utilizes a NodeMCU board, various sensors, and the Arduino IoT Cloud to monitor distance, water level, and GPS coordinates. It also includes automated alerts and visualization of data on the IoT Cloud dashboard.
