@@ -4,36 +4,34 @@
 :Revision: version#
 :License: Public Domain
 
-= Sewage Monitoring System For Blockage Point Detection
+# Sewage Monitoring System For Blockage Point Detection
 
-An Arduino sketch for Sewage Monitoring System For Blockage Point Detection. The system utilizes nodeMCU board, sensors, and the Arduino IoT Cloud to monitor distance, water level, and GPS coordinates. It features automated alerts and visualization of data on the IoT Cloud dashboard.
+This Arduino sketch implements a Sewage Monitoring System for Blockage Point Detection. The system utilizes a NodeMCU board, various sensors, and the Arduino IoT Cloud to monitor distance, water level, and GPS coordinates. It also includes automated alerts and visualization of data on the IoT Cloud dashboard.
 
-== Step 1: Installation
-Install Arduino IDE 
+## Step 1: Installation
 
-1. Open File-->Preferences-->Settings.
-2. Type https://arduino.esp8266.com/stable/package_esp8266com_index.json in the ‘Additional Board Manager URL’ field and click ‘Ok’.
-3. Now go to Tools--> Board--> Boards Manager. In Boards Manager window, Type ESP8266 in the search box, select the latest version of the board and click on install.
-4. After the installation is complete, go to Tools-->Board--> and select NodeMCU 1.0(ESP-12E Module). Now, you can program NodeMCU with Arduino IDE.
+### Install Arduino IDE
 
+1. Open `File` -> `Preferences` -> `Settings`.
+2. Type `https://arduino.esp8266.com/stable/package_esp8266com_index.json` in the 'Additional Board Manager URL' field and click 'Ok'.
+3. Go to `Tools` -> `Board` -> `Boards Manager`. In the Boards Manager window, type `ESP8266` in the search box, select the latest version of the board, and click on `Install`.
+4. After installation, go to `Tools` -> `Board` and select `NodeMCU 1.0 (ESP-12E Module)` to program the NodeMCU using Arduino IDE.
 
-== Step 2: Assemble the circuit
+## Step 2: Assemble the Circuit
 
-Assemble the circuit following the diagram circuit.jpg attached to the sketch.
+Assemble the circuit following the circuit diagram in the `circuit.jpg` attached to this sketch.
 
-== Step 3: Load the code
+## Step 3: Load the Code
 
-Upload the code contained in this sketch on to your board
+Upload the code provided in this sketch onto your NodeMCU board.
 
-== Step 4: Hardware Requirements
+## Step 4: Hardware Requirements
 
-|===
-| SN | Part name      
-| 01 | NodeMCU (ESP8266)        
-| 02 | Ultrasonic sensor                
-| 03 | Float sensor  
-| 04 |  GPS sensor      
-| 05 | Red LED                
-| 06 | 10k Resistor          
-|===
-
+| SN  | Part Name        |
+| --- | ---------------- |
+| 01  | NodeMCU (ESP8266)|
+| 02  | Ultrasonic Sensor|
+| 03  | Float Sensor     |
+| 04  | GPS Sensor       |
+| 05  | Red LED          |
+| 06  | 10k Resistor     |
