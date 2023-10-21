@@ -36,6 +36,6 @@ Upload the code provided in this sketch onto your NodeMCU board.
 
 ![overview](https://github.com/SuhailMuhammed1/Sewage-Monitoring-System-For-Blockage-Point-Detection/assets/104970300/e08d7c37-05f0-4d1c-8b78-8d67251d5542) ![alert](https://github.com/SuhailMuhammed1/Sewage-Monitoring-System-For-Blockage-Point-Detection/assets/104970300/83f72351-dd6a-461c-a8e9-1142c366ff31)
 
-![6](https://github.com/SuhailMuhammed1/Sewage-Monitoring-System-For-Blockage-Point-Detection/assets/104970300/397b0f8d-ec6d-418c-847c-8e319cc53b49) ![8](https://github.com/SuhailMuhammed1/Sewage-Monitoring-System-For-Blockage-Point-Detection/assets/104970300/d624d9dd-ab8b-4f48-9634-e29c82d7dde7)
+![7-portrait](https://github.com/SuhailMuhammed1/Sewage-Monitoring-System-For-Blockage-Point-Detection/assets/104970300/a87507f3-c3ab-438a-8ac0-a1d332bd897c) ![8-portrait](https://github.com/SuhailMuhammed1/Sewage-Monitoring-System-For-Blockage-Point-Detection/assets/104970300/8c9193f9-1a96-48ba-83b7-05ac8c3ee557)
 
 
